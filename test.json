@@ -2,67 +2,83 @@
   "nodes": [
     {
       "name": "John Smith 10/1/2010",
-      "xloc": 0
+      "xloc": 0,
+      "yloc": 0
     },
     {
       "name": "John Smith 10/2/2010",
-      "xloc": 1
+      "xloc": 1,
+      "yloc": 0
     },
     {
       "name": "John Smith 10/3/2010",
-      "xloc": 2
+      "xloc": 2,
+      "yloc": 0
     },
     {
       "name": "John Smith 10/4/2010",
-      "xloc": 3
+      "xloc": 3,
+      "yloc": 0
     },
     {
       "name": "Good Doggy 10/1/2010",
-      "xloc": 0
+      "xloc": 0,
+      "yloc": 1
     },
     {
       "name": "Good Doggy 10/2/2010",
-      "xloc": 1
+      "xloc": 1,
+      "yloc": 1
     },
     {
       "name": "Good Doggy 10/3/2010",
-      "xloc": 2
+      "xloc": 2,
+      "yloc": 1
     },
     {
       "name": "Good Doggy 10/4/2010",
-      "xloc": 3
+      "xloc": 3,
+      "yloc": 1
     },
     {
       "name": "Spot Cleaner 10/1/2010",
-      "xloc": 0
+      "xloc": 0,
+      "yloc": 2
     },
     {
       "name": "Spot Cleaner 10/2/2010",
-      "xloc": 1
+      "xloc": 1,
+      "yloc": 2
     },
     {
       "name": "Spot Cleaner 10/3/2010",
-      "xloc": 2
+      "xloc": 2,
+      "yloc": 2
     },
     {
       "name": "Spot Cleaner 10/4/2010",
-      "xloc": 3
+      "xloc": 3,
+      "yloc": 2
     },
     {
       "name": "Uni Corn 10/1/2010",
-      "xloc": 0
+      "xloc": 0,
+      "yloc": 3
     },
     {
       "name": "Uni Corn 10/2/2010",
-      "xloc": 1
+      "xloc": 1,
+      "yloc": 3
     },
     {
       "name": "Uni Corn 10/3/2010",
-      "xloc": 2
+      "xloc": 2,
+      "yloc": 3
     },
     {
       "name": "Uni Corn 10/4/2010",
-      "xloc": 3
+      "xloc": 3,
+      "yloc": 3
     }
   ],
   "links": [
